@@ -1,0 +1,12 @@
+# Ignorar node_modules em ambas as pastas
+ett-portal-backend/node_modules/
+ett-portal-frontend/node_modules/
+
+# Logs
+*.log
+
+# Outras exclusões comuns
+dist/
+build/
+.env
+.git_backup/
